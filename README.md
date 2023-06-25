@@ -6,17 +6,17 @@
 
 #### 在您的个人资料中显示成就完全是可选的； 默认情况下，任何查看您的公开个人资料的人都可以看到它们。
 
-You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+您可以转到您的[个人资料设置](https://github.com/settings)，选择不让成就显示在您的个人资料上。
 
 <br>
 
 | Badge | Name | How to get                                                                                                                                                       |
 | :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested)** |
-| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested)** |
+| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | 使用 ❤️ 表情符号对 GitHub 上的内容做出反应 **(Being tested)** |
+| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | 用户已将 PR 合并到多个公共存储库中 **(Being tested)** |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Created a repository that has **16 stars** or [more](#Badge-tiers).                                                                                              |
-| ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Closed an issue or a pull request within 5 min of opening.                                                                                                       |
-| ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Coauthored in a **two** or [more](#Badge-tiers) merged pull request.                                                                                             |
+| ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | 在打开后 5 分钟内关闭问题或拉取请求.                                                                                                       |
+| ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | 在 **两个** 或 [更多](#Badge-tiers) 合并拉取请求中共同创作。                                                                                             |
 | ![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** merged (or [more](#Badge-tiers)).                                                                                                            |
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 accepted answers or [more](#Badge-tiers).                                                                                                                      |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review .                                                                                                       |
