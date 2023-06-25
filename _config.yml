@@ -1,0 +1,12 @@
+remote_theme: github-profile-achievements/jekyll-theme
+
+title: 所有 GitHub 个人资料徽章和成就的完整列表
+description: 所有 GitHub 个人资料徽章和成就的完整列表
+permalinks: pretty
+
+lang: zh
+logo_url: https://avatars.githubusercontent.com/u/117988194?s=200&v=4
+
+# Navbar
+navbar_link_text: 其他语言的 GitHub 个人资料成就
+navbar_button_text: 改进此页面 GitHub
