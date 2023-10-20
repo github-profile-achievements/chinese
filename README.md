@@ -21,16 +21,16 @@
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 两个或[两个以上](#Badge-tiers)的回答被标记为“答案”.                                                                                                                      |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | 在不进行代码审查的情况下合并 **至少一个** PR.                                                                                                       |
 | ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | 通过 [GitHub Sponsors](https://github.com/sponsors) 打赏开源项目.                                                                                  |
-| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Now unable to earn.* |
-| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Now unable to earn.*                                 |
+| ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | 向用于[Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter)的存储库贡献了代码 *已无法再获取。* |
+| ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | 向用于[2020 GitHub Archive Program](https://archiveprogram.github.com/)的存储库贡献了代码. *已无法再获取。*                                 |
 
 <br>
 
-## Badge Tiers
+## 成就徽章等级
 
-Some Achievements not only have the base version, but also tiers.
+一些徽章不仅具有基础版，还可以继续升级
 
-| Achievement | Default | Bronze | Silver | Gold |
+| 成就等级 | 默认 | 黄铜 | 白银 | 黄金 |
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Bronze badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Silver badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Gold badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
 | | 16 stars | 128 stars | 512 stars | 4096 stars <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
@@ -67,18 +67,18 @@ Some Achievements not only have the base version, but also tiers.
 
 <br>
 
-## Achievement Skin Tone
+## 成就皮肤色调
 
-Some achievements' appearance depends on your Emoji Skin Tone Preference.
+一些成就的外观取决于你的Emoji偏好设置
 
-You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
+你可以在[外观设置](https://github.com/settings/appearance)更改你的偏好设置
 
 <br>
 
-| **Badge** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
+| **徽章** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Default skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
-| **Quickdraw** | ![Default skin tone of Quickdraw][q-default] | ![Light skin tone of Quickdraw][q-light] | ![Light-medium skin tone of Quickdraw][q-light-medium] | ![Medium skin tone of Quickdraw][q-medium] | ![Medium-dark skin tone of Quickdraw][q-medium-dark] | ![Dark skin tone of Quickdraw][q-dark] |
+| **预览** | ![Default skin tone of Quickdraw][q-default] | ![Light skin tone of Quickdraw][q-light] | ![Light-medium skin tone of Quickdraw][q-light-medium] | ![Medium skin tone of Quickdraw][q-medium] | ![Medium-dark skin tone of Quickdraw][q-medium-dark] | ![Dark skin tone of Quickdraw][q-dark] |
 
 [s-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
 [s-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
@@ -95,16 +95,16 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 <br>
 
-## Highlights Badges
+## 高亮成就
 
 | Badge | Name | How to achieve |
 | --- | --- | --- |
-| ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | Have  your reply to a discussion marked as the answer |
-| ![Dark badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![Light badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | **Developer Program Member** | Be a registered member of the [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
-| ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
-| ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security advisory credit** | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
+| ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | 使用 [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
+| ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | 在讨论中的回复被标记为答案 |
+| ![Dark badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![Light badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | **Developer Program Member** | 注册成为[GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program)的一员 |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | 在 [GitHub Security](https://bounty.github.com/) 上寻找安全漏洞|
+| ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | 参与 [GitHub Campus Program](https://education.github.com/experts) |
+| ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security advisory credit** | 提交到 [GitHub Advisory Database] (https://github.com/advisories) 的安全性建议被接受 |
 
 [gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
