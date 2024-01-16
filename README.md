@@ -12,8 +12,8 @@
 
 | Badge | Name | How to get                                                                                                                                                       |
 | :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | 使用 ❤️ 表情符号对 GitHub 上的内容做出反应 **(Being tested)** |
-| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | 用户已将 PR 合并到多个公共存储库中 **(Being tested)** |
+| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | 使用 ❤️ 表情符号对 GitHub 上的内容做出反应 **(正在测试中)** |
+| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | 用户已将 PR 合并到多个公共存储库中 **(正在测试中)** |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | 创建一个有 **16 颗星** 或[更多星](#Badge-tiers) 的仓库.                                                                                              |
 | ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | 在打开后 5 分钟内关闭问题或拉取请求.                                                                                                       |
 | ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | 在 **两个** 或 [更多](#Badge-tiers) 合并拉取请求中共同创作。                                                                                             |
