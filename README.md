@@ -97,7 +97,7 @@
 
 ## 高亮成就
 
-| Badge | Name | How to achieve |
+| 徽章 | 名称 | 如何获得 |
 | --- | --- | --- |
 | ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | 使用 [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | 在讨论中的回复被标记为答案 |
