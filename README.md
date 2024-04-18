@@ -1,9 +1,5 @@
 # 所有 GitHub 个人资料徽章和成就的完整列表
 
->This page has not been translated into Chinese. If you have the opportunity to help, please contribute to the translation - just make a PR with edits.
->
->此页面尚未翻译成中文。 如果您有机会提供帮助，请为翻译做出贡献 - 只需进行 PR 编辑即可。
-
 #### 在您的个人资料中显示成就完全是可选的； 默认情况下，任何查看您的公开个人资料的人都可以看到它们。
 
 您可以转到您的[个人资料设置](https://github.com/settings)，选择不让成就显示在您的个人资料上。
